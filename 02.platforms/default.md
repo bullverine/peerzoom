@@ -1,5 +1,5 @@
 ---
-title: Platforms
+title: P2P Plattformen
 ---
 # My New Page!
 
